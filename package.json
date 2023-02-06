@@ -1,0 +1,11 @@
+{
+  "name": "cookie-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "sass": "sass --watch src/css/index.scss src/css/output.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
